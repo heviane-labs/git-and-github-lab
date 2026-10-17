@@ -2,12 +2,13 @@
 
 Desenvolvedora com 10+ anos em arquitetura web, integração e automação. Disponível para projetos freelance e consultoria.
 
-[📄 Currículo](./CV.pdf) • [💼 LinkedIn](https://www.linkedin.com/in/hevianebastos) • heviane@gmail.com
+• [📄 Currículo](./CV.pdf) 
+• [💼 LinkedIn](https://www.linkedin.com/in/hevianebastos) 
+• heviane@gmail.com
 
 ## 🛠️ Tecnologias
 
-**Experiência:** ![.NET](...badge...) ![Node](...badge...) ![SQL](...badge...) ![Docker](...badge...) ![Git](...badge...)
-**Em estudo:** ![Vibecoding](...badge...) ![Dev assistido por IA](...badge...) ![Cloud](...badge...)
+... Listar badges aqui...
 
 ## Projetos em destaque
 
@@ -15,7 +16,7 @@ Desenvolvedora com 10+ anos em arquitetura web, integração e automação. Disp
 
 - Descrição: Integração de gateway X para reduzir erros de cobrança em 40%.
 - Tech: .NET, SQL, Docker
-- Link: https://github.com/heviane/projeto-a | Demo: https://...
+- Link: https://github.com/heviane/projeto-a | Demo: https://...](https://github.com/heviane/projeto-a-demo
 - ![screenshot](./projects/projeto-a/screenshot.png)
 
 ### Projeto B — Automação de Integração
